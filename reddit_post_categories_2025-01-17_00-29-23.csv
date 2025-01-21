@@ -1,0 +1,492 @@
+Title,Sentiment,Confidence,Topic Description
+Why are so many indigenous Panamanians contracting HIV — and dying of AIDS?,Negative,0.9374784827232361,"flu, bird, opinion, article, gift, vaccine, residents, per, covid, norovirus"
+The King of Ozempic Is Scared as Hell,Negative,0.8671377301216125,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+LA’s Fires Have Created Another Problem—Unsafe Drinking Water,Negative,0.8695949912071228,Outlier / Uncategorized
+Norovirus cases are rising in Canada. Here's advice from a doctor,Negative,0.547266960144043,"flu, bird, opinion, article, gift, vaccine, residents, per, covid, norovirus"
+Statista data show half of Dutch don't wash their hands after using the toilet,Negative,0.6060781478881836,Outlier / Uncategorized
+"Pennsylvania teenager diagnosed with tuberculosis went to school Monday, officials say",Negative,0.6560576558113098,Outlier / Uncategorized
+How extreme car dependency is driving Americans to unhappiness,Negative,0.9559110403060913,Outlier / Uncategorized
+Inside the strange limbo facing millions of IVF embryos,Negative,0.5292865037918091,Outlier / Uncategorized
+"Toxic metals found in some protein powders, report says. Should you be worried?",Negative,0.5517879724502563,Outlier / Uncategorized
+"Tobacco advertising bans do help lower odds of smoking, study shows",Positive,0.6031620502471924,"alcohol, lower, study, risk, may, diet, smoking, people, finds, health"
+"The US is in a steep decline of food enjoyment — which has impacts on health, data shows",Negative,0.8904448747634888,"alcohol, lower, study, risk, may, diet, smoking, people, finds, health"
+How genes are mapping the way to cancer cures,Neutral,0.8216521739959717,Outlier / Uncategorized
+FDA proposes nicotine limits on tobacco products to make them less addictive,Neutral,0.7053375840187073,"alcohol, lower, study, risk, may, diet, smoking, people, finds, health"
+New recommendations to measure obesity go beyond controversial BMI. A doctor explains.,Neutral,0.794748842716217,"alcohol, lower, study, risk, may, diet, smoking, people, finds, health"
+The Second Trump White House Could Drastically Reshape Infectious Disease Research. Here’s What’s at Stake.,Neutral,0.7176333069801331,"flu, bird, opinion, article, gift, vaccine, residents, per, covid, norovirus"
+Biden administration allocates $306m in its final days for bird flu response,Neutral,0.8440924286842346,"flu, bird, opinion, article, gift, vaccine, residents, per, covid, norovirus"
+Nature: Nanocarrier imaging at single-cell resolution across entire mouse bodies with deep learning - SARS-CoV-2 mRNA affecting multiple organs,Neutral,0.8655276298522949,"flu, bird, opinion, article, gift, vaccine, residents, per, covid, norovirus"
+How R.E.M. disappeared,Neutral,0.6640670299530029,Outlier / Uncategorized
+"jpop artist ""Mahiru official""",Neutral,0.8979188203811646,Outlier / Uncategorized
+Roar - I Can’t Handle Change [Indie pop] (Rework/Cut Bridge),Neutral,0.8184535503387451,Outlier / Uncategorized
+Are You Experienced by Jimi Hendrix,Neutral,0.8792815208435059,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+The extraordinary untold story of the lost David Bowie tapes,Neutral,0.8381763696670532,Outlier / Uncategorized
+No Shoes Nation — Pack Your Bags for Vegas,Neutral,0.8665726780891418,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+Help find a band,Neutral,0.8582062125205994,Outlier / Uncategorized
+Tim McGraw to play first-ever concert at the Field of Dreams movie site,Neutral,0.870725154876709,Outlier / Uncategorized
+EXE.CHOP - Ang3l [Electronic],Neutral,0.864486575126648,Outlier / Uncategorized
+New Music vs Old Music,Neutral,0.8532537221908569,"time, listening, hour, pachyderm, pimp, preserve, songs, southbound, primus, represents"
+Actions of One - The Actions Of One [rock] (2025),Neutral,0.9212192893028259,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+Flavor Flav Streams Leighton Meester's Music After She and Adam Brody Lost Their Home in L.A. Fires,Neutral,0.728436291217804,Outlier / Uncategorized
+Can you tell me some drum intros better than these?,Neutral,0.6224197149276733,"time, listening, hour, pachyderm, pimp, preserve, songs, southbound, primus, represents"
+Best music quotes from songs,Positive,0.7169684171676636,"whats, go, music, singers, cds, recordingambient, constitutes, custom, tracks, aux"
+Any tips on promoting music or connecting with other artists?,Neutral,0.8183751702308655,"whats, go, music, singers, cds, recordingambient, constitutes, custom, tracks, aux"
+Ticketmaster's pathetic attempt at stopping resellers,Negative,0.8347097039222717,Outlier / Uncategorized
+Y $upp - Nitrous Baby [hip-hop/Rap] (2025),Neutral,0.9093160629272461,"hiphop, amb, edm, cabe, boyz, bout, dlow, bossman, savage, dnd"
+How the biggest rock band in the world [R.E.M.] disappeared,Neutral,0.5267686247825623,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+Astroverse Dimensions - SHATTERHAND REMIX MEDLEY [Prog Rock],Neutral,0.9280492067337036,Outlier / Uncategorized
+Finland has found its song,Neutral,0.5206699371337891,"type, music, monophonics, dionysus, amadeus, sage, jazz, falco, edit, motel"
+Recovering Video game OST Listener,Neutral,0.884739875793457,Outlier / Uncategorized
+Album Review: DeBÍ TiRAR Más FOTos – Bad Bunny,Neutral,0.8711013197898865,"whats, go, music, singers, cds, recordingambient, constitutes, custom, tracks, aux"
+Radiohead - All I Need [Alt Rock],Neutral,0.8343673944473267,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+Non-blues rock bands that experimented in the genre all the time,Neutral,0.8956255316734314,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+"Holy Crap, This Snow Is Slick! - lurkingwraith [rock] (2025)",Negative,0.766411542892456,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+Where do I start?,Neutral,0.7686052918434143,Outlier / Uncategorized
+Wilco - Many Worlds [Rock],Neutral,0.8830923438072205,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+Dorian Electra - My Agenda ft Pussy Riot & The Village People [Hyperpop] (2021),Neutral,0.9015295505523682,Outlier / Uncategorized
+Kent - Pärlor [Rock],Neutral,0.8730023503303528,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+David Lynch - Crazy Clown Time [Experimental],Neutral,0.7835105657577515,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Roy Orbison - In Dreams [Rockabilly],Neutral,0.8260092735290527,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+Trying to find out what this song is sampled from,Neutral,0.8684822916984558,Outlier / Uncategorized
+Hello dislodging an earworm,Neutral,0.5244869589805603,Outlier / Uncategorized
+Glassjaw - Lovebites and Razorblades (2000) [Post-Hardcore],Neutral,0.9204686284065247,Outlier / Uncategorized
+"Billie Eilish, Lady Gaga, U2, Red Hot Chili Peppers to Perform at Benefit Concert for L.A. Fire Victims",Neutral,0.5460010766983032,Outlier / Uncategorized
+Popular artists who got into music later in life?,Neutral,0.9063863158226013,"whats, go, music, singers, cds, recordingambient, constitutes, custom, tracks, aux"
+"Non-blues rock bands that experimented in the genre all the time, Pt. 2",Neutral,0.9002507925033569,Outlier / Uncategorized
+Busta Rhymes charged with assault for allegedly beating up his assistant for being on his phone while working,Negative,0.8560836911201477,Outlier / Uncategorized
+What's that one song you listened to on repeat non-stop the most?,Neutral,0.7480654120445251,"time, listening, hour, pachyderm, pimp, preserve, songs, southbound, primus, represents"
+"Massive Attack turned down Coachella, but it's playing a Mexico City fest the weekend before",Neutral,0.6544067859649658,Outlier / Uncategorized
+Teddy Osei: Ghanaian music legend who founded Osibisa dies aged 88,Neutral,0.667339563369751,Outlier / Uncategorized
+The Snoop Dogg scene in Old School (2003) is terrible. Party movies typically have a good party scene needle drop or musical number. Why is this one so bad and what are the best ones?,Negative,0.8906862735748291,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Any good recommendations for zombie movies/shows?,Neutral,0.8514154553413391,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Anyone else find “The Company Men” terrifying?,Negative,0.8308804631233215,Outlier / Uncategorized
+Best Year For Movies,Positive,0.9134203791618347,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Water contamination/disease movie,Negative,0.842569887638092,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Name of movie involving Inuit and ship crew?,Neutral,0.9309889674186707,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Is it me or was 2024 an incredible year for movies?,Positive,0.7397798895835876,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Favorite bad dramatic pause in a climactic monologue?,Neutral,0.4870544970035553,Outlier / Uncategorized
+Characters referencing their past characters,Neutral,0.8559572696685791,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+"1993's Man's Best Friend. I am looking for the TV edit version of Man's Best Friend (1993). There are scenes added that are not in the theatrical cut, and are not on the dvd or blu-ray releases.",Neutral,0.5997081398963928,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Bring back intermissions!,Neutral,0.55064457654953,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+Movie Rating Reviewing Tracking Apps Compatible with Stremio,Neutral,0.8815728425979614,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Any good movies set in the Mayan/Aztec times?,Neutral,0.8468671441078186,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Your Top 5 “made for streaming services” movies,Neutral,0.8264512419700623,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+All I See is You (2016) - Starring Blake Lively. Directed by Marc Forster,Neutral,0.8487769961357117,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+"New Deathgasm Movie News during interview with Milo Cawthtorne, former Power Ranger!",Neutral,0.9014989137649536,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+I would like to watch more movies like these.,Positive,0.9284072518348694,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Please explain Triangle (2009),Neutral,0.8274111747741699,Outlier / Uncategorized
+UNTIL DAWN – Official Trailer,Neutral,0.8931996822357178,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Vidaamuyarchi Trailer | Ajith Kumar | Trisha | Arjun | Magizh Thirumeni | Anirudh | Subaskaran| Lyca,Neutral,0.9176108241081238,Outlier / Uncategorized
+is there a missing godfather 2 love scene?,Neutral,0.8356384038925171,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Optimus Prime: Heroic sociopath.,Negative,0.5290910601615906,Outlier / Uncategorized
+"‘The Yeti’ Casts Brittany Allen, Eric Nelsen & More Ahead Of New York Shoot; Radiant Inks Pre-Sales",Neutral,0.9064874053001404,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+AMC Theatres Seeks To Spur Moviegoing With Upgrade To Free Membership Plan,Neutral,0.6347090601921082,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+What are some movies you either avoided or didn't think you'd like only to eventually watch and be proved wrong? And why?,Negative,0.7016421556472778,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+What was your most memorable movie audio / sound experience?,Neutral,0.7882845401763916,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Whose the biggest actor to never appear in a billion dollar movie?,Neutral,0.5572425127029419,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+"Bob Uecker, Hall of Fame Broadcaster & 'Major League' Star, Dies at 90",Neutral,0.6060293912887573,Outlier / Uncategorized
+"Focus Features has set a March 28 limited release for its Sundance Film Festival Premiere, The Ballad of Wallis Island",Neutral,0.921854555606842,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+THE MONKEY - Official Redband Trailer - In Theaters February 21,Neutral,0.9365503191947937,Outlier / Uncategorized
+Joel McHale Joins ‘Scream 7’ As Sidney Prescott’s Husband Mark,Neutral,0.9497511982917786,Outlier / Uncategorized
+Kill Bill & Jackie Brown 4K Steelbooks | Official Trailer,Neutral,0.9301882386207581,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Which anime do u think is a good option for the live action treatment?,Neutral,0.909780740737915,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+"ASC Awards Nominations: ‘Wicked,’ ‘Dune: Part Two,’ ‘A Complete Unknown’ & More",Neutral,0.8504940271377563,Outlier / Uncategorized
+Is Her (2013) the most prescient sci-fi movie of all time?,Neutral,0.6574507355690002,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+What was the central tension of We Live in Time?,Neutral,0.926172137260437,"december, simple, daily, thread, questions, , , , , "
+"David Lynch, Visionary Director of ‘Twin Peaks’ and ‘Blue Velvet,’ Dies at 78",Neutral,0.6671409606933594,Outlier / Uncategorized
+Netflix Lands Louis Leterrier’s Sci-Fi Thriller ‘11817’ Starring Greta Lee And Wagner Moura,Neutral,0.8958231210708618,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Willa Fitzgerald (Strange Darling) Oscar snub prediction.,Neutral,0.7167179584503174,"series, last, hope, awad, witchs, caruso, babygirl, brother, earthseed, drake"
+'I'm Still Here' Review: When Politics Intrude on a Happy Home - The New York Times,Neutral,0.7378383874893188,"sunday, stupid, moronic, victory, monday, rant, weekly, wednesday, thread, questions"
+David Lynch’s Favorite Films: 10 Movies the Director Wants You to See,Positive,0.5106640458106995,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Best movie ever,Positive,0.9768232107162476,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+"Last Night in Soho movie, am I crazy or are there very heavy Alan Wake/Control(video games) vibes",Neutral,0.8002865314483643,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+JSA and LGBT+: I'm surprised no one's talking about this,Negative,0.5650902986526489,Outlier / Uncategorized
+Watching EYES WIDE SHUT and NO COUNTRY FOR OLD MEN back-to-back made for an incredible double feature,Positive,0.9401586651802063,Outlier / Uncategorized
+Mid 2000s Cop/Monster movie ID,Neutral,0.8429630994796753,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Mulholland Drive - Llorando,Neutral,0.8659814596176147,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+"Lynch films: Which are must-sees, and what order should they be watched in?",Neutral,0.9050580263137817,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+A Tribute to the Movies and Music of John Carpenter on his 77th Birthday,Neutral,0.6347224712371826,Outlier / Uncategorized
+Spike Lee Developing Fleet Week Dramedy ‘Liberty’ From Writers Rebecca Murga & Jalysa Conway,Neutral,0.9145317077636719,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Cristiano Ronaldo becomes the first player to score in 24 consecutive calendar year in football history!,Positive,0.8951997756958008,Outlier / Uncategorized
+"On fourth and goal, Ohio State’s Jack Sawyer strips Quinn Ewers and returns it for a touchdown, giving Ohio State a 28-14 lead with just over two minutes left in the fourth quarter.",Neutral,0.693254292011261,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+[Highlight] Eric Murray picks off Justin Herbert and takes it to the house,Neutral,0.9031391143798828,Outlier / Uncategorized
+Australian Open: Emma Raducanu bitten by jumping ants,Neutral,0.6341438889503479,"australian, open, win, medals, olympic, world, race, cup, lindsey, vonn"
+1 handed “crowd catch” at the cricket.,Neutral,0.7240852117538452,"australian, open, win, medals, olympic, world, race, cup, lindsey, vonn"
+The official speed world record on an ordinary mountain bike is 210 km/h (131 mph),Neutral,0.8352732062339783,"australian, open, win, medals, olympic, world, race, cup, lindsey, vonn"
+German bobsledder Simon Wulff tested positive after race win,Positive,0.7024303078651428,"australian, open, win, medals, olympic, world, race, cup, lindsey, vonn"
+Mike Vrabel returning to the Pats as new HC,Neutral,0.9336268305778503,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+Report: Bears want to interview Notre Dame's Freeman,Neutral,0.9117872714996338,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+[Highlight] Josh Allen to Ty Johnson who makes an unreal catch in the back of the end zone for TD,Positive,0.8660184741020203,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+[Highlight] Josh Allen to Curtis Samuel who evades Broncos defenders for Bills touchdown,Neutral,0.7498323321342468,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+Josh Allen leads balanced offense as Bills dominate Broncos for wild-card win,Positive,0.6313527226448059,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+"Down 32, Pitt women tie NCAA Division I women's comeback record by topping SMU 72-59",Neutral,0.816367506980896,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+Barcelona routs Real Madrid again to win Spanish Super Cup final 5-2,Neutral,0.5847292542457581,Outlier / Uncategorized
+Nick Taylor wins another playoff with clutch play on the 18th in the Sony Open,Neutral,0.5023705363273621,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+"Jayden Daniels leads Commanders to first playoff win in nearly 7,000 days, 23-20 over the Buccaneers",Positive,0.7488828301429749,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+Breaking Barriers: Yuvraj Singh’s Triumph Over Adversity,Neutral,0.6526808738708496,Outlier / Uncategorized
+Lewis Hamilton reveals new name he will use in F1 after taking mum's surname,Neutral,0.9299221038818359,Outlier / Uncategorized
+Former heavyweight champion Tyson Fury retires from Boxing,Neutral,0.9157211184501648,"australian, open, win, medals, olympic, world, race, cup, lindsey, vonn"
+Australian Open: Novak Djokovic and new coach Andy Murray get a win against US teen in debut,Neutral,0.723832368850708,"australian, open, win, medals, olympic, world, race, cup, lindsey, vonn"
+Former England captain Casey Stoney named head coach of Canadian women's soccer team,Neutral,0.9351551532745361,Outlier / Uncategorized
+Report: Mike McCarthy out as Cowboys coach after 5 seasons,Neutral,0.7522922158241272,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+Philadelphia Eagles fan calls opposing fan “ugly dumb c*nt”,Negative,0.87343430519104,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+"Sixers abandon Center City arena plan, will stay in South Philly, officials say",Neutral,0.9345234036445618,Outlier / Uncategorized
+"Philadelphia mayor announces new plan to keep 76ers arena in South Philadelphia, pursue WNBA team",Neutral,0.8821606636047363,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+Video: Olympic Kite Surfer Bruno Lobo Rescues Drowning Woman in Brazil,Neutral,0.8612709045410156,Outlier / Uncategorized
+Australian Open: Nick Kyrgios makes retirement hint after loss,Neutral,0.7885122299194336,"australian, open, win, medals, olympic, world, race, cup, lindsey, vonn"
+Report: Cowboys owner Jerry Jones spoke to Deion Sanders about head coaching job,Neutral,0.8937779068946838,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+Jordan Chiles is back -- with a viral Prince floor routine,Positive,0.5801233649253845,"flu, bird, opinion, article, gift, vaccine, residents, per, covid, norovirus"
+Daniil Medvedev loses his cool and smashes a net camera during hard-fought win at the Australian Open,Neutral,0.680264949798584,"australian, open, win, medals, olympic, world, race, cup, lindsey, vonn"
+Excellent fielding from the Australian women’s cricket team to get an important wicket.,Positive,0.8101169466972351,"australian, open, win, medals, olympic, world, race, cup, lindsey, vonn"
+Jerry Jones talks to Deion Sanders about Cowboys coaching job,Neutral,0.91877681016922,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+Some Paris Olympic athletes asking for medals to be replaced after condition quickly deteriorating,Negative,0.7141861319541931,"australian, open, win, medals, olympic, world, race, cup, lindsey, vonn"
+Report: Jimmy Butler reiterates trade request in meeting with Riley,Neutral,0.9493366479873657,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+"Texans waive Diontae Johnson after 2 games, his 4th team this year",Neutral,0.9108527898788452,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+Third former Indiana University basketball player accuses team doctor of sex abuse,Negative,0.7130092978477478,Outlier / Uncategorized
+"NASCAR denies Mike Wallace, 65, from Daytona 500, '25 races",Neutral,0.6773788332939148,Outlier / Uncategorized
+Trent Frederic vs Emil Lilleberg,Neutral,0.8482753038406372,Outlier / Uncategorized
+Aus Open match suspended as rowdy fans cause chaos and players abandon court,Negative,0.9165274500846863,Outlier / Uncategorized
+Colts to host NFL's 1st regular-season game in Berlin,Neutral,0.9252442717552185,Outlier / Uncategorized
+Australian Open: Naomi Osaka is back in a Slam's 3rd round for the 1st time in 3 years,Neutral,0.8947865962982178,"australian, open, win, medals, olympic, world, race, cup, lindsey, vonn"
+"Eagles fan who verbally abused female Packers fan loses job, gets banned from Lincoln Financial Field",Negative,0.9030967950820923,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+"Golf legend John Daly announces he underwent ""emergency"" hand surgery",Neutral,0.8598082065582275,Outlier / Uncategorized
+March Madness will pay women's teams under a new structure approved by the NCAA,Neutral,0.8764532208442688,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Shotaro Morii, 18-year-old 2-way player, bypasses Japanese baseball to sign with Athletics",Neutral,0.883942186832428,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Bill to award 1980 ‘Miracle On Ice’ US hockey team with Congressional Gold Medals is reintroduced,Neutral,0.7840708494186401,Outlier / Uncategorized
+Conor McGregor sued again over alleged assault of woman in 2023,Neutral,0.5136356949806213,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Suns acquire Hornets' Nick Richards for Josh Okogie, 3 second round picks",Neutral,0.952008843421936,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+"LeBron James addresses fires' mental toll, basks in fan moment",Neutral,0.7487247586250305,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+"Ravens OC Todd Monken set to interview with Jaguars Thursday, Bears Friday",Neutral,0.9575048685073853,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+"Chris Paul decides Victor Wembanyama would be a better choice on jump ball with 7'4"" Zach Edey",Neutral,0.8377072215080261,"game, highlight, playoff, win, touchdown, wildcard, goal, johnson, team, report"
+A new book examines millennial nostalgia and the economic consequences of Y2K : NPR's Book of the Day,Neutral,0.8395156860351562,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Parable of the Sower by Octavia E. Butler,Neutral,0.9163796305656433,Outlier / Uncategorized
+The Witch’s Daughter (2024),Neutral,0.8866833448410034,Outlier / Uncategorized
+"To Kill a Mockingbird by Harper Lee is a very comfy story about a very uncomfortable period in U.S. history, and that's why it works so well",Positive,0.8943840861320496,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Carrie Underwood reference in Demon Copperhead doesn’t seem to fit.,Negative,0.7172399759292603,Outlier / Uncategorized
+How to keep track of big literary books published?,Neutral,0.8760814070701599,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Do later books in a series benefit from a bias with reviews?,Neutral,0.8476423025131226,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Reading Rant: Introductions (usually to classic books) that spoil major plot points,Negative,0.6497066617012024,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+"Trying and Failing to Figure Out “Escapism” in Books: What is escapist lit? Every answer I’ve read is incomplete, because it’s not one thing...",Negative,0.7107066512107849,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+The Silmarillion by J.R.R. Tolkien & Christopher Tolkien.,Neutral,0.8500017523765564,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+"BookTok shaped a new generation of readers, authors. What happens if TikTok is banned?",Neutral,0.6647739410400391,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+"For what price: Joan Samson's ""The Auctioneer"".",Neutral,0.8220780491828918,Outlier / Uncategorized
+"Simple Questions: January 11, 2025",Neutral,0.9023128151893616,Outlier / Uncategorized
+"In a new book, Brooke Shields opens up about a non-consensual, intimate surgery",Neutral,0.899579644203186,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+‘The Covenant of Water’ Book Review,Neutral,0.8960088491439819,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Rejection by Tony Tulathimutte. The first truly incel novel?,Negative,0.6600258350372314,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+TikTok and book recommendations,Neutral,0.7466286420822144,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+"Weekly FAQ Thread January 12, 2025: How many books do you read at a time?",Neutral,0.9234169125556946,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Just reread West of January by Dave Duncan,Neutral,0.8713549971580505,Outlier / Uncategorized
+More than 100 famous works by Australian authors rescued from oblivion by literary heritage endeavour: Three-year project returns out-of-print classics – including six Miles Franklin winners – to circulation and into ebook format for the first time,Positive,0.7831156253814697,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+"Print Book Sales Saw a Small Sales Increase in 2024: After two years of declines, print sales inched up in 2024",Neutral,0.5471349358558655,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+What are some books who have an unreliable narrator/protagonist? How does it affect your overall experience of reading it?,Neutral,0.5541035532951355,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+having watched the Wicked movie and finished the first Wicked book; haven't watched the play yet,Neutral,0.7970827221870422,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+The Little Brother series by Cory Doctorow,Neutral,0.9190770983695984,"series, last, hope, awad, witchs, caruso, babygirl, brother, earthseed, drake"
+What Alice Munro Knew,Neutral,0.8599434494972229,Outlier / Uncategorized
+A writing style you cannot stand,Negative,0.9342886805534363,Outlier / Uncategorized
+"Weekly Calendar - January 13, 2025",Neutral,0.9224922060966492,"january, simple, questions, daily, thread, november, dry, calendar, healthier, really"
+Blue sisters is an empty and disappointing book,Negative,0.9655491709709167,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Diversity Syndrome: On Publishing’s Relentless Pigeonholing of Black Writers,Negative,0.5434098243713379,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+To A God Unknown by John Steinbeck is a worthy read.,Positive,0.8929240703582764,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Octavia Butler's Altadena Gravesite Was Burned By LA Wildfires,Negative,0.5496029257774353,Outlier / Uncategorized
+"I just read Jurassic Park for the first time in almost 20 years, and I'm happy to report that the book still SLAPS",Positive,0.979988694190979,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Anne Rice's Violin,Neutral,0.8722909092903137,"type, music, monophonics, dionysus, amadeus, sage, jazz, falco, edit, motel"
+"Honeymoon, by Patrick Modiano (tr. Barbara Wright)",Neutral,0.9115050435066223,"folk, del, lana, italo, presents, kool, junior, lonely, knopfler, hop"
+Lullaby by Chuck Palahniuk.,Neutral,0.8635644316673279,Outlier / Uncategorized
+My thoughts on separating the art from artist.,Neutral,0.8554940819740295,Outlier / Uncategorized
+Sean Duffy Series by Adrian McKinty: Book 8 Coming in March,Neutral,0.9410492181777954,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Hemingway’s “A Farewell to Arms”,Neutral,0.8661360144615173,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+"Simple Questions: January 14, 2025",Neutral,0.8988747000694275,Outlier / Uncategorized
+Colin Barrett’s Wild Houses among winners of Nero book awards,Positive,0.5258733630180359,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Reflections on Metamorphosis by Franz Kafka,Neutral,0.9023433923721313,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Why Zora Neale Hurston Was Obsessed with the Jews: Her long-unpublished novel was the culmination of a years-long fascination. What does it reveal about her fraught views on civil rights?,Neutral,0.8071670532226562,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Books or authors you love that fall outside of your normal preferences?,Neutral,0.6540164947509766,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+"Book review: In 'Happy City,' a timeless take on how to build better cities",Positive,0.8463875651359558,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Just picked up “Shogun” by James Clavell,Neutral,0.8670272827148438,Outlier / Uncategorized
+I finished The Count Of Monte Cristo - the judgment of Mercedes is harsh,Neutral,0.5749850273132324,Outlier / Uncategorized
+Similar characters by the same author...,Neutral,0.8663651943206787,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Thoughts on - Night Film by Marisha Pessl,Neutral,0.934812605381012,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+"In 2009, Sweden chose to replace books with computers. 15 years later, it allocates 104 million euros to reverse course",Neutral,0.7254804372787476,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Remarkably bright creatures,Positive,0.9126911163330078,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+GAIA spacecraft shutting down after over 11 years of operations,Negative,0.5171025395393372,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Blue Origin pushes back first launch of giant New Glenn rocket,Neutral,0.8501682281494141,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Gaia22ayj is a magnetic accreting white dwarf, astronomers find",Neutral,0.9139069318771362,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+SpaceX launching 21 Starlink satellites from Florida this morning,Neutral,0.9167283773422241,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+China plans to plant a waving flag on the moon in 2026,Neutral,0.866908609867096,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+ESA welcomes Slovenia as 23rd Member State,Positive,0.8276788592338562,Outlier / Uncategorized
+"NASA's Innovative and Advanced Concepts program has announced its award winners for 2025. Some of the concepts include constructing glass habitats from lunar regolith, and a leaping robot to sample water from Enceladus' plumes.",Positive,0.7060380578041077,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Aloha from Above - 14 days of Hawaii from space,Neutral,0.9138953685760498,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Mars’ occultation with the moon tonight.,Neutral,0.8869713544845581,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+55 Years Ago: Apollo 13 Prepares for Third Moon Landing,Neutral,0.9372076392173767,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Mars re-emerging from behind the Moon tonight,Neutral,0.7936457395553589,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+ESA's Gaia Mission Nears Completion: Final Science Observations Less Than 24 Hours Away,Neutral,0.8262204527854919,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Astronomers discover a new dense sub-Saturn exoplanet,Neutral,0.6046901941299438,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+How to see the brightest comet of 2025,Positive,0.598267674446106,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Yutu-2 rover likely immobile on the moon after historic lunar far side mission,Neutral,0.9076939821243286,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Five ways the universe could end,Negative,0.65406733751297,"series, last, hope, awad, witchs, caruso, babygirl, brother, earthseed, drake"
+"Mars and the moon during occultation, Jan 2025",Neutral,0.8995810747146606,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Newfound galaxy class may indicate early black hole growth,Neutral,0.9046477675437927,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"After a Naming Contest, Cardea Joins the Celestial Ranks as a Quasi-Moon",Neutral,0.940605878829956,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Smithsonian Astrophysical Observatory has received a $2.8 million grant from the Gordon and Betty Moore Foundation to advance work on the Black Hole Explorer (BHEX) project, a new mission that will launch the capabilities of the Event Horizon Telescope",Neutral,0.552817165851593,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"The European Space Agency’s Milky Way-mapper Gaia has completed the sky-scanning phase of its mission, racking up more than three trillion observations of about two billion stars and other objects over the last decade to revolutionise the view of our home galaxy and cosmic neighbourhood.",Neutral,0.5037004351615906,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Stoke Space Announces $260 Million in New Investment,Neutral,0.89024418592453,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Trying to find a video I remember where a man is explaining why we haven’t found intelligent life yet.,Negative,0.5318995714187622,Outlier / Uncategorized
+Mars at its biggest and brightest tonight!,Positive,0.9144230484962463,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+I found a potentially interesting star in the tess data. Can anyone better suited take a look? video is 1 minute long,Positive,0.9264476299285889,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Where to watch New Glenn launch?,Neutral,0.93011873960495,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+NASASpaceFlight's stream of New Glenn launch scheduled for Thursday 0100 EST (0600 Z) is now live.,Neutral,0.8972737789154053,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+I wanted to revive my interest in Astophysics,Positive,0.6993162631988525,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+ISRO successfully executes SpaDeX docking experiment; India joins elite club of nations,Positive,0.6036132574081421,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+ISRO Achieves Success: India Becomes 4th Nation To Master Space Docking - Samachar Post,Positive,0.8254825472831726,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA,Neutral,0.927531898021698,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"The best Milky Way animation, by Gaia",Positive,0.9108221530914307,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+RFA receives launch licence from the UK,Neutral,0.8488568663597107,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+India's space docking mission a success; fourth country to achieve this feat - Indiaweekly,Positive,0.9065125584602356,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Isro's SpaDeX: India successfully conducts historic space-docking test,Positive,0.583311915397644,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Geneva university challenges 'hot Jupiter' planetary theories,Neutral,0.741007387638092,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"If Earth had rings like Uranus, Neptune, or Jupiter",Neutral,0.84312504529953,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"NDTV: ISRO's SpaDeX Mission Successful, 2 Indian Satellites Dock In Space",Positive,0.7214564085006714,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"The Moon Makes the List of the World’s Most Endangered Cultural Heritage Sites in 2025 | Earth-bound landmarks ravaged by war, climate change, tourism and other threats also landed in the World Monuments Watch report",Neutral,0.48592609167099,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Mars is inhabitable, true or false?",Neutral,0.8575156927108765,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Astronomers observe real-time formation of black hole jets for the first time | While the largest plasma jets extend well beyond their host galaxies and last millions of years, scientists are gaining understanding of a new class of smaller, shorter-lived jets called “compact symmetric objects.”",Neutral,0.613487958908081,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Best place to watch SpaceX Starship launches,Positive,0.8385114073753357,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"NASA's Webb Telescope Reveals Intricate Layers of Interstellar Dust, Gas at AAS245",Neutral,0.8895837068557739,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+The Sun’s Incredible Activity Through My Telescope - January 13,Positive,0.5311062932014465,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+When will New Glenn de-orbit?,Neutral,0.8659943342208862,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Research reveals why more men than women are diagnosed with deadly heart disease - Women may be missing a diagnosis of a potentially deadly heart condition due to guidelines that don't account for natural differences in sex and body size, according to a new study.",Negative,0.8811133503913879,Outlier / Uncategorized
+"Researchers from Brno created a multimodal dataset of speech under stress with 79 participants using the BESST protocol, to improve machine learning models",Neutral,0.5522223711013794,Outlier / Uncategorized
+"Researchers analyzed NB-IoT performance, finding conventional UEs meet ITU delay limits under heavy traffic, but permanently connected UEs face delays, requiring channel redesign or resource expansion",Neutral,0.7035652995109558,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Study finds contemporary H5N1 virus doesn't significantly induce interferon-stimulated genes compared to historic virus, resulting in mild disease.",Negative,0.5022736191749573,"flu, bird, opinion, article, gift, vaccine, residents, per, covid, norovirus"
+Potent and broad HIV-1 neutralization in fusion peptide-primed SHIV-infected macaques,Neutral,0.7808160185813904,Outlier / Uncategorized
+"‘TrueFood’ Research Database Offers Rankings for 50,000 Processed Foods for Consumers to Use While Grocery Shopping",Neutral,0.8574960827827454,"alcohol, lower, study, risk, may, diet, smoking, people, finds, health"
+"Light, flexible and radiation-resistant: Organic solar cells for space. Radiation testing suggests that solar cells made from carbon-based, or organic, materials could outperform conventional silicon and gallium arsenide for generating electricity in space.",Positive,0.7172591686248779,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Study finds long term use of methylphenidate in late adolescent and early adult individuals with ADHD does not cause cardiovascular dysfunction, based on Echocardiographic evaluation",Neutral,0.552280604839325,Outlier / Uncategorized
+"Weight training plus electricity adds extra muscle and strength - Using a run-of-the-mill, portable and non-invasive electrical muscle stimulator while doing resistance training can yield greater gains in muscle strength and muscle mass than resistance training alone, according to new research.",Positive,0.7971134185791016,"gym, saturday, phriday, physique, story, muscle, monthly, megathread, training, exercise"
+New analysis suggests that Sydney funnel-web spiders represent three distinct species; the revised taxonomy may have practical implications for antivenom production and biochemical studies on spider venom.,Neutral,0.8396788239479065,Outlier / Uncategorized
+Mikhail ‘Misha’ Blagosklonny’s enduring legacy in geroscience: the hyperfunction theory and the therapeutic potential of rapamycin,Neutral,0.8051424622535706,Outlier / Uncategorized
+"Innovative Ceramic-Based Thermoelectric Modules Demonstrate Exceptional Stability and Reliable Operation at 900°C for High-Temperature Energy Conversion and Waste Heat Recovery Applications: ""Fabrication and testing of ceramic thermoelectric multi-leg module for high-temperature energy conversion"".",Neutral,0.7322379946708679,Outlier / Uncategorized
+"There has been an increase in women seeking abortions in UK who report using no contraception or 'fertility awareness' (tracking menstrual cycle to avoid sex during ovulation). 'Natural' methods are far less effective, and a shift toward non-medical alternatives may increase unintended pregnancies.",Negative,0.7700855135917664,Outlier / Uncategorized
+"Serum 25-Hydroxyvitamin D Is Inversely Associated With Prediabetes, Type 2 Diabetes Mellitus, and Insulin Resistance in Children: A Systematic Review and Dose-Response Meta-analysis of Epidemiologic Studies",Negative,0.5689333081245422,"alcohol, lower, study, risk, may, diet, smoking, people, finds, health"
+"Cordierite Mg2Al4Si5O18, a remarkable mineral widely used in diverse applications, exhibits an unusual ability to resist changes in size despite significant temperature fluctuations. Breakthrough study reveals the secrets behind cordierite’s anomalous thermal expansion.",Positive,0.6667402386665344,Outlier / Uncategorized
+"Implementing bans on the advertising, promotion, and sponsorship of tobacco products is linked to 20% lower odds of smoking, and a 37% lower risk of taking up the habit.",Neutral,0.48451557755470276,"alcohol, lower, study, risk, may, diet, smoking, people, finds, health"
+"A new study explores whether goats can recognise familiar humans using facial photos and voice recordings. Results hint at some physiological changes (like heart rate shifts) when faces and voices don’t match, but behavioural evidence remains unclear.",Neutral,0.7697261571884155,Outlier / Uncategorized
+Solar panels should not be cleaned with dishwashing detergent as it reduces the panel’s ability to absorb solar radiation even after rinsing. Researchers recommend using glass cleaner and isopropanol instead.,Negative,0.6347145438194275,Outlier / Uncategorized
+"Researchers have identified the mechanism that regulates how the body burns brown fat and converts it into heat. This mechanism protects against obesity and related metabolic diseases. When the MCJ protein is removed from obese mice, they produce more heat and lose weight",Neutral,0.6858377456665039,"alcohol, lower, study, risk, may, diet, smoking, people, finds, health"
+"Scientists find hundreds more genetic risk factors for depression | Wider sample used data from across 29 countries and 5 million people, with a quarter from non-European ancestries",Neutral,0.5557396411895752,Outlier / Uncategorized
+Functional genomics of human skeletal development and the patterning of height heritability,Neutral,0.8832175731658936,Outlier / Uncategorized
+Bird flu in cattle ‘not an increased threat to humans’ study shows,Neutral,0.6950157880783081,"flu, bird, opinion, article, gift, vaccine, residents, per, covid, norovirus"
+"Social media users more likely to invest in cryptocurrencies. YouTube, Reddit, Twitter and Clubhouse users were the most likely to invest in digital currencies.",Positive,0.6148767471313477,Outlier / Uncategorized
+"When kids focus on challenges in short spurts, they build “cognitive endurance”",Positive,0.5897475481033325,Outlier / Uncategorized
+"Close to one in ten children across the globe have experienced some kind of sexual violence. 11% of kids globally experienced sexual harassment and 9% experienced contact sexual violence. Additionally, 6% of children (7% of girls and 3% of boys) reported rape.",Negative,0.8850462436676025,Outlier / Uncategorized
+"The link between physical strength and sexual behavior is not just in men. Women, as well as men, who had greater upper body strength tended to have more lifetime sexual partners compared to their peers. Men with greater upper body strength were also more likely to to be in long-term relationships.",Neutral,0.7450422644615173,Outlier / Uncategorized
+"A new study found that PFAS (forever chemicals) in drinking water was associated with cancers in the organ system including the oral cavity/pharynx, lung, digestive system, brain, urinary system, soft tissue, and thyroid.",Negative,0.902945339679718,Outlier / Uncategorized
+"Robot threats trigger worry responses in rats, mapping brain’s anxiety process | Cells in rats’ brains mark places to avoid, and the rats keep thinking about them afterward.",Negative,0.6924229264259338,Outlier / Uncategorized
+"A neuroimaging study of torture survivors found a decreased connectivity in brain networks associated with response inhibition, attention, and motor function | This effect may be specifically linked to the dysphoria symptoms of posttraumatic stress disorder (PTSD).",Negative,0.7415596842765808,"dementia, cognitive, genetic, alzheimers, risk, injury, study, new, human, americans"
+"A study found that a cannabidiol-based nutritional supplement ""is effective in ameliorating osteoarthritis in dogs, improving their quality of life.""",Positive,0.9096997380256653,"alcohol, lower, study, risk, may, diet, smoking, people, finds, health"
+"Octopus Arms Are Controlled by a Nervous System That's Segmented Like No Other, Scientists Find",Neutral,0.8518965840339661,Outlier / Uncategorized
+CAES scientists discover how cyst nematodes attack crops,Neutral,0.743008553981781,Outlier / Uncategorized
+Scientists have revealed the secret to the structural integrity of tiny particles that transport cargo from cell to cell through blood vessels and bodily fluids: special proteins that keep their membranes intact as they negotiate shifting electrical impulses in different biological environments.,Neutral,0.7354192733764648,Outlier / Uncategorized
+"Fossil fuel industries tweeting together for ‘climate obstruction’ - Fossil fuel energy, plastics, and agrichemical companies are networking on social media for ‘climate delay and denial.’ Their tweets presented environmental ‘solutions’ and highlighted the ‘unbearable weight of regulatory burdens’.",Negative,0.6921300888061523,Outlier / Uncategorized
+"UK needs a national strategy to tackle harms of alcohol, research finds: Deaths from alcohol specific causes in England rose by 42% between 2019 and 2023, the highest number on record, most of them from alcohol related liver disease.",Negative,0.845335841178894,"alcohol, lower, study, risk, may, diet, smoking, people, finds, health"
+"The partisanship of mayors in the US has no detectable effect on police spending, police employment, crime, or arrests – This conflicts with a common narrative on the right that Democrat-run cities are rampant with crime and characterized by “soft-on-crime” policies.",Negative,0.7537363171577454,Outlier / Uncategorized
+"Disability often neglected in medical school curricula, study finds: Disability is often neglected in medical education curricula, being framed as a “problem” within an individual, according to participants surveyed",Negative,0.6981364488601685,"dementia, cognitive, genetic, alzheimers, risk, injury, study, new, human, americans"
+"Zebra finches can hear pitch (fundamental frequency) — but in a very limited fashion, such that they are much more sensitive to pitch in songs they learned from their 'tutor bird' and much less so from other conspecifics. This is strikingly different to how humans hear pitch.",Neutral,0.6372395753860474,Outlier / Uncategorized
+"Study finds relatively low rates of substitution for seafood choices like salmon, shrimp, and tuna: Substitution for the top 10 most-consumed seafood products in the U.S. occurred in just 13.9% of cases, lower than the substitution rates observed for less frequently consumed species.",Neutral,0.66275554895401,Outlier / Uncategorized
+The oral-brain axis: New research uncovers surprising links between the bacteria in your mouth and mental health symptoms,Neutral,0.7029396891593933,Outlier / Uncategorized
+"Unsweetened coffee associated with reduced risk of Alzheimer’s and Parkinson’s diseases, study finds | This association was not observed for sweetened or artificially sweetened coffee",Neutral,0.6669496297836304,Outlier / Uncategorized
+Crops could thrive with less fertilizer if they make more microbial friends | A mutation reveals chemical signals that help wheat plants attract beneficial fungi to their roots,Positive,0.6406566500663757,Outlier / Uncategorized
+Effect of dietary intake of advanced glycation end products on biomarkers of type 2 diabetes: a systematic review and meta-analysis,Neutral,0.764410138130188,"alcohol, lower, study, risk, may, diet, smoking, people, finds, health"
+"A new study suggests that the transmission of cognitive ability from parents to children is primarily driven by genetics, with little influence from shared environmental factors like family resources.",Neutral,0.8243680000305176,Outlier / Uncategorized
+"City flooded, mikedev, gouache, 2025",Neutral,0.7893874645233154,Outlier / Uncategorized
+"Palisades Tahoe, Michael Mikolon, Pastel, 2025",Neutral,0.8663314580917358,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+"'Death and Rebirth', Sadie Laine, Watercolor, 2025",Neutral,0.8861259818077087,Outlier / Uncategorized
+"Queen of Hearts vs. Knave of Marts, Andrew Harper, Acrylic pen, 2024",Neutral,0.8925480842590332,"folk, del, lana, italo, presents, kool, junior, lonely, knopfler, hop"
+"Cosmic Spill, mesalocal (me), acrylic, 2025",Neutral,0.9036632180213928,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Existential Dread, MC✌🏽, Acrylic Canvas, 2025",Neutral,0.7911021113395691,Outlier / Uncategorized
+"Low Pass/Equinoxe, PBdL, scratchboard, 2024",Neutral,0.8933002948760986,"gym, saturday, phriday, physique, story, muscle, monthly, megathread, training, exercise"
+"The Revolution Will Be LiveStreamed, DJ Morrow, mixed media, 2024",Neutral,0.780444324016571,Outlier / Uncategorized
+"The Cowboy (Carousel V), Mark Seabrook, oil on panel, 2024",Neutral,0.9360209107398987,Outlier / Uncategorized
+"Watching the world melt, mattdjmorris, snow wood and paint, 2025",Neutral,0.6808041334152222,Outlier / Uncategorized
+"‘Eruption for the Muse’, by LTOriginals (OP), UV Acrylics, 2025",Neutral,0.7742181420326233,Outlier / Uncategorized
+"Roku Gin #1, verrepastiche (me), epoxy/liquor glass, 2024",Neutral,0.9015992879867554,"homemade, ate, bread, chicken, pizza, cake, soup, roasted, beef, broccoli"
+"Prismatic Pyramid Pendant, staxwell_glass, borosilicate glass, 2024",Neutral,0.9022011160850525,Outlier / Uncategorized
+"Monoliths, BlackValor, Ink, 2025.",Neutral,0.8291121125221252,Outlier / Uncategorized
+"The Morning Fairy, Maile Lani (me), acrylic and 24k gold leaf, 2025",Neutral,0.8716713786125183,"homemade, ate, bread, chicken, pizza, cake, soup, roasted, beef, broccoli"
+"Saturday Night In X-Ville, Gary Wray (me), Colored Pencil Drawing, 2023",Neutral,0.8545381426811218,Outlier / Uncategorized
+"The Undead Princess, Stickbodgoth,Procreate,2025",Neutral,0.8712766766548157,Outlier / Uncategorized
+"Asta the Berserker, Little.Art.Troll (Me), Photoshop, 2024",Neutral,0.8007346391677856,Outlier / Uncategorized
+"Moonwater, by Adm1nX, Digital, 2025",Neutral,0.9030382633209229,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Goodknightruby, u/artists_couch, digital, 2025",Neutral,0.7900477051734924,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Beach Babe, Kocknocker, Acrylic on canvas, 2025",Neutral,0.8065372705459595,"folk, del, lana, italo, presents, kool, junior, lonely, knopfler, hop"
+"Absurdism, u/thecatmanifesto, Krita, 2025",Neutral,0.749062180519104,Outlier / Uncategorized
+"Caminos, Nicho Alexandria Herrera, Multimedia and Oil on Canvas, 2024",Neutral,0.9119778871536255,Outlier / Uncategorized
+"Flower Basket, KITTYcat0930, Acrylic, 2025",Neutral,0.896119236946106,"homemade, ate, bread, chicken, pizza, cake, soup, roasted, beef, broccoli"
+"Gimmie the loot!, GRB94, Photoshop, 2025",Neutral,0.7226897478103638,"hiphop, amb, edm, cabe, boyz, bout, dlow, bossman, savage, dnd"
+"Lofty Bones, Lulu (me), alcohol markers and acrylic pen, 2025",Neutral,0.8784602880477905,Outlier / Uncategorized
+"One Cat Contemplating the Moon, Joe Vinten, Charcoal, 2025",Neutral,0.9029048085212708,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Scott, SuspiciousFall, Digital, 2025",Neutral,0.8821696043014526,Outlier / Uncategorized
+"Schipperke, /u/dreamlearnbuildburn, Procreate, 2025",Neutral,0.7921932339668274,"homemade, ate, bread, chicken, pizza, cake, soup, roasted, beef, broccoli"
+"blue eyes white dragon, blunt action, 3D, 2025",Neutral,0.8074805736541748,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+"Magic cat, Suntmint, acrylic, 2025",Neutral,0.8030006885528564,"homemade, ate, bread, chicken, pizza, cake, soup, roasted, beef, broccoli"
+"Portrait Study, ChrisJuneauArt, Digital, 2025",Neutral,0.8564291000366211,Outlier / Uncategorized
+"Resin earrings, Av, Resin, 2025",Neutral,0.8782507181167603,Outlier / Uncategorized
+"Spirit of Change, u/NoLobster7957 (me), digital, 2025",Neutral,0.8515658378601074,Outlier / Uncategorized
+"Rainbow betta, BeOceanMindedART, watercolor, 2024",Neutral,0.740962028503418,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Rainbow Ouroboros, Norspac, Watercolors and Ink, 2021",Neutral,0.8901315927505493,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"“Jackelope Fella,” AlaricTheBloody, wood, 2024",Neutral,0.9085843563079834,Outlier / Uncategorized
+"""Blue Marlin with Tuna"", Bryan Collins, Acrylic, 2024",Neutral,0.9189949631690979,"homemade, ate, bread, chicken, pizza, cake, soup, roasted, beef, broccoli"
+"Harbor, u/riff_rat, black pen and paint pens on paper, 2025",Neutral,0.9020875096321106,Outlier / Uncategorized
+"Late Shift, Adam Slinskey, Photograph, 2024",Neutral,0.9237635135650635,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+"Abandoned Vehicle, Josh Byer, mixed media, 2025",Neutral,0.9010986685752869,Outlier / Uncategorized
+"Incident At Collingwood: The Landing, Noah Stacey, Digital, 2025",Neutral,0.8693755269050598,Outlier / Uncategorized
+"the great escape, klamsch (me), acrylic marker on canvas, 2025",Neutral,0.5569646954536438,Outlier / Uncategorized
+"Urn, Winterblade1980, combination of pencil/pen/digital shading and coloring, 2025",Neutral,0.9129564166069031,"rock, actions, around, one, korn, sparks, woodstock, dokken, dick, gilded"
+"The Dream Lover On Nebulous Plains, The Fixation, Pencil, 2025",Neutral,0.8801076412200928,Outlier / Uncategorized
+"""Samoset, ca. 1621"", by TheBagelLord (me), Ink on paper, 2021",Neutral,0.940836489200592,Outlier / Uncategorized
+Japanese history researcher Yasutsune Owada answers the internet's burning questions about samurai.,Neutral,0.8965626955032349,Outlier / Uncategorized
+Climate patterns from cave mineral deposits linked to Chinese dynasty collapses,Neutral,0.8115420341491699,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Cambridge University urged to apologise over jailing of thousands of ‘evil’ women without evidence or trial,Negative,0.8586468696594238,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+How the Horrific 1918 Flu Spread Across America | Smithsonian Magazine,Negative,0.7633896470069885,"flu, bird, opinion, article, gift, vaccine, residents, per, covid, norovirus"
+Westminster Abbey uncovers ‘tantalising’ link to Charlemagne,Neutral,0.8418563008308411,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Sarcophagus found at Church of St. Nicholas could be the tomb of “Santa Claus”,Neutral,0.7957290410995483,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Archaeologists Discover Iron Age Weapons Cache in Denmark,Neutral,0.9132608771324158,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+"More than 1,000 Artifacts Discovered Beneath Notre Dame Cathedral",Neutral,0.8761442303657532,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+"Suspected 35,000-Year-Old Stone Age Ritual Site Found Deep Within Cave",Neutral,0.7042602300643921,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Belisariusless: Byzantine Reconquest While Belisarius was Imprisoned,Neutral,0.7434792518615723,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+DNA dates modern man’s trek ‘out of Africa’ to breed with Neanderthals,Neutral,0.864323616027832,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Weekly History Questions Thread.,Neutral,0.8731967210769653,Outlier / Uncategorized
+Were Descartes and Princess Elisabeth of Bohemia flirting with eachother in their correspondence? (Excerpts and link),Neutral,0.879367470741272,Outlier / Uncategorized
+Tales of 18th-century dentistry,Neutral,0.8289358019828796,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+'Being a starlet was difficult': How Shirley Temple saved a Hollywood studio from bankruptcy,Neutral,0.6101558804512024,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Palawan Massacre: WWII's Forgotten Tragedy,Neutral,0.5394424200057983,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+"2,000-year-old tomb of Roman soldier unearthed in Netherlands",Neutral,0.760766327381134,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+"‘The darker angels of our nature’: Early Bronze Age butchered human remains from Charterhouse Warren, Somerset, UK | Antiquity",Negative,0.5264235734939575,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Bookclub and Sources Wednesday!,Neutral,0.5970235466957092,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+"A 9th-century BCE burial mound provides evidence that the origins of the nomadic Scythians may lie farther east than previously thought, and that Herodotus' strange description of their royal funerals may be based on an element of truth.",Neutral,0.8118034601211548,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+"Palaeoenvironmental, stratigraphic and geochronological study of the coastal site of Dalani i Vogël (Vlora, Albania): new evidence for late Neanderthal occupation and prehistoric archaeology",Neutral,0.9309476017951965,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Weekly History Questions Thread.,Neutral,0.8731967210769653,Outlier / Uncategorized
+"“Facts” and “Ideas”: Richard Jones, William Whewell, and the Entangled Histories of Science and Political Economy in Early Nineteenth-Century Britain",Neutral,0.8613250851631165,Outlier / Uncategorized
+The history of the Zodiac Killer and the search to identify him,Neutral,0.7603203058242798,Outlier / Uncategorized
+The Oregon Trail was once the most widely distributed software in US schools. It gripped a generation and changed gaming forever.,Positive,0.6538524627685547,Outlier / Uncategorized
+The North Hollywood Shootout (1997),Neutral,0.873540997505188,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+"Casaamata, Casanova, Tadini, the First Intraocular Lens, and the Exploding Champagne Bottle",Neutral,0.9110107421875,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+An overview of the first Bulgarian Empire,Neutral,0.8699418306350708,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Weekly History Questions Thread.,Neutral,0.8731967210769653,Outlier / Uncategorized
+"Boston's First ""Tea Party""",Neutral,0.8825870752334595,"folk, del, lana, italo, presents, kool, junior, lonely, knopfler, hop"
+Medieval pig trials,Neutral,0.6001455187797546,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Cocaine found in mummified brains reveal that New World drug came to Italy 200 years earlier than thought,Neutral,0.5705622434616089,Outlier / Uncategorized
+A story all about hair (Lady Godvia),Neutral,0.8904905319213867,Outlier / Uncategorized
+'She believed you have to take sides': How Audrey Hepburn became a secret spy during World War Two,Neutral,0.6879274845123291,Outlier / Uncategorized
+The Invasion at Wessagusset: How a British Colony Forever Changed English and Native Relations in the New World,Neutral,0.8127018809318542,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+"Magic and the British Middle Classes, 1750–1900",Neutral,0.8744944334030151,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Lost site of Alexander the Great's famous battle against ancient Persians discovered in Turkey,Neutral,0.7264689207077026,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Weekly History Questions Thread.,Neutral,0.8731967210769653,Outlier / Uncategorized
+"One of the youngest soldiers to fight in World War I was Sidney Lewis, who joined the British Army when he was just 12 years old. He lied about his age to enlist and ended up fighting in the Battle of the Somme at 13 — one of the war’s deadliest battles.",Negative,0.6625762581825256,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+The Burial of William the Conqueror: A Comedy of Errors,Negative,0.4940812885761261,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+Ccuteni - Trypillia mega-sites: a social levelling concept? | Antiquity,Neutral,0.9043375253677368,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+"Pan-European atmospheric lead pollution, enhanced blood lead levels, and cognitive decline from Roman-era mining and smelting",Negative,0.8681620359420776,Outlier / Uncategorized
+The Liao Dao of the Khitan People from the 11th Century AD,Neutral,0.908995509147644,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+The history of ancient sea travel,Neutral,0.8521100878715515,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+How Hitler Dismantled a Democracy in 53 Days,Negative,0.8256895542144775,Outlier / Uncategorized
+"Rudy Giuliani Posts Puppy Videos Taken 1,000 Miles Away as Court Waits for His Arrival",Neutral,0.6884427666664124,Outlier / Uncategorized
+"Florida AG pledges to ""fight for President Trump"" after DeSantis picks her to fill Senate vacancy",Neutral,0.8519402146339417,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Who is Ashley Moody, Marco Rubio’s replacement in the Senate?",Neutral,0.9299428462982178,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Biden, Trump jockey over credit for Gaza ceasefire, hostage deal",Neutral,0.728140115737915,Outlier / Uncategorized
+Where did all the fascism talk go?,Negative,0.7905294895172119,Outlier / Uncategorized
+"Trump will 'put measures in place' to stop TikTok ban, top adviser says",Neutral,0.8936858177185059,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Gordon: Wyoming energy poised for 'rebound' after weathering Biden policies,Neutral,0.9071342945098877,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Porn had a bad day at the Supreme Court. But Texas didn't have a good one.,Negative,0.8382875919342041,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Trump’s Official Inaugural Portrait Hailed as ‘Supervillain Pic of the Year’ | The president-elect’s official snap harks back to darker days, but his fans are loving it.",Positive,0.7328396439552307,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Gov. Braun closes DEI office, mandates return-to-work in slew of executive orders",Neutral,0.8317354917526245,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Trump taps Voigt, Gibson and Stallone as ‘special envoys’ to Hollywood",Neutral,0.7920265197753906,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Trump’s Billionaire Treasury Pick Stresses Importance of Tax Cuts for Billionaires,Neutral,0.5956990718841553,Outlier / Uncategorized
+Rudy Giuliani avoids trial by settling with Georgia election workers he defamed,Negative,0.6200541853904724,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+West Virginia governor’s first executive orders include removing DEI initiatives and vaccine requirements | The Independent,Neutral,0.7816101908683777,Outlier / Uncategorized
+Killing in Palestine continues as Israel remains uncommitted to supposed ceasefire,Negative,0.8200399279594421,Outlier / Uncategorized
+Bernie Sanders Takes Shot At Lee Zeldin After Phone Interrupts EPA Nominee's Hearing: 'Sorry That Was The Fossil Fuel Industry',Neutral,0.48208484053611755,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Judgment in Trump's New York fraud case stands at $502 million ahead of inauguration,Neutral,0.6212494373321533,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+American ‘Oligarchy’ Decried by Biden Gained $1.5 Trillion in His Term,Neutral,0.7278252243995667,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Montana House endorses transgender bathroom ban affecting fellow lawmakers,Neutral,0.7683072090148926,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Here are the facts about Tuberville’s Hegseth hearing claims on ‘transgender restrooms,’ DEI training",Neutral,0.7161310911178589,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Bernie Sanders warns the US is becoming an oligarchy,Neutral,0.4902086853981018,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+New recreational marijuana proposal emerges in Florida with hopes of appearing on 2026 ballot,Neutral,0.7635948657989502,Outlier / Uncategorized
+"Michigan governor warns Trump tariffs on Mexico, Canada could harm US auto sector",Negative,0.6972286701202393,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Biden calls for amending Constitution to say no president should have immunity for crimes committed in office,Neutral,0.6660029888153076,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+'Damning' New Poll Shows Price Kamala Harris Paid for Backing Israeli Genocide in Gaza,Negative,0.7977378964424133,Outlier / Uncategorized
+How Biden’s Foreign Policy Destroyed His Presidency,Negative,0.7729928493499756,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Georgia State Sen. Colton Moore arrested for attempting to enter House chambers after he was banned,Negative,0.5212015509605408,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Trump Appoints Jon Voight, Mel Gibson, Sylvester Stallone as Special Envoys to Restore ‘Golden Age of Hollywood’",Neutral,0.7248366475105286,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Star F***er Trump Announces Bizarre Hollywood Ambassador Gig - The president-elect named a slew of his celebrity hangers-on as his “special ambassadors” to Hollywood.,Negative,0.5869272947311401,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Trump Names Mel Gibson, Jon Voight, Sylvester Stallone “Special Ambassadors” to Hollywood, Whatever That Means",Neutral,0.8232160210609436,"movie, movies, best, poster, films, starring, film, comedy, official, trailer"
+Merrick Garland rebukes 'unfounded attacks' on Justice Department officials in farewell speech,Neutral,0.6669793725013733,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+An Expert in Grand Strategy Thinks Trump Is on to Something,Neutral,0.8058173656463623,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Nancy Pelosi Gives Trump the Finger With Inauguration Plans - Pelosi has no interest in playing civil with Trump this time around.,Negative,0.6858891248703003,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Drug used in federal executions under Trump may cause ‘unnecessary pain and suffering,’ Garland says",Negative,0.8418135643005371,Outlier / Uncategorized
+The Democratic Party's leadership crisis: 'Don't know' and 'Nobody' outpoll pols,Negative,0.6436851024627686,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+The Insurance Crisis Looming in California as the Wildfires Burn,Negative,0.7163069248199463,Outlier / Uncategorized
+UnitedHealth CEO says U.S. health system 'needs to function better',Neutral,0.5818002820014954,Outlier / Uncategorized
+Schumer pushes for TikTok ban delay as deadline looms,Neutral,0.7755245566368103,Outlier / Uncategorized
+Canadian Leader Fires Shot at Trump With Plan to Tariff the U.S. Right Back,Neutral,0.8443994522094727,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Most Canadians don’t want to be American, unless it comes with perks: poll",Negative,0.6783366799354553,Outlier / Uncategorized
+"Trump tariffs on Canada could jeopardize oil and gas exports to U.S., says trade chief",Negative,0.6683102250099182,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Trump announces ambassador gig for Mel Gibson, Sylvester Stallone and Jon Voight",Neutral,0.8856242299079895,Outlier / Uncategorized
+Top Supreme Court lawyer charged with tax evasion related to poker winnings,Neutral,0.5694588422775269,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"FBI closed DEI office in December, agency says",Neutral,0.8213971853256226,Outlier / Uncategorized
+Small business support in governor's State of the State,Neutral,0.6428432464599609,Outlier / Uncategorized
+"""Three Gorges Dam In Space"": China Reveals Plans To Build Giant Power Station In Earth's Orbit",Neutral,0.8603771328926086,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Lina Khan's FTC Is Suing John Deere to Break Its Repair Monopoly | The lawsuit comes after years of the equipment manufacturer locking farmers out of making basic repairs to their equipment.,Negative,0.5708338022232056,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Platforms Systematically Removed a User Because He Made ""Most Wanted CEO"" Playing Cards",Negative,0.534989058971405,Outlier / Uncategorized
+Microsoft and iFixit now sell official Xbox Series X/S replacement parts for DIY repairs,Neutral,0.5840725302696228,Outlier / Uncategorized
+Telegram Shuts Down Z-Library & Anna's Archive Channels Over Copyright Infringement,Negative,0.6435436010360718,Outlier / Uncategorized
+Frank McCourt: I want to buy TikTok — and scrap its algorithm,Neutral,0.5358878970146179,"discovered, ancient, yearold, site, history, medieval, hidden, years, th, age"
+"Fallout creator Tim Cain says devs don't know what gamers want because ""you don't know either"" and that's why he used to just make games he and his team liked",Neutral,0.6069132685661316,Outlier / Uncategorized
+"Exclusive: Bluesky is getting its own photo-sharing app, Flashes",Neutral,0.7471882700920105,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+She Is in Love With ChatGPT,Positive,0.8176236748695374,Outlier / Uncategorized
+Mecha Comet: The Pocket PC That Stole the Spotlight at CES 2025,Neutral,0.5661673545837402,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+Lawyer reveals risks of using TikTok with VPN if US imposes ban,Negative,0.5946520566940308,Outlier / Uncategorized
+8 in 10 men believe AI girlfriends could replace humans,Neutral,0.7064816951751709,Outlier / Uncategorized
+Replit CEO on AI breakthroughs: ‘We don’t care about professional coders anymore’,Neutral,0.5696974992752075,Outlier / Uncategorized
+Here’s our forecast for AI this year,Neutral,0.8832245469093323,Outlier / Uncategorized
+Americans get warm welcome to Chinese TikTok alternative RedNote ahead of potential ban,Positive,0.6961744427680969,Outlier / Uncategorized
+Seaside police introduce new technology to enhance public safety,Positive,0.5414796471595764,Outlier / Uncategorized
+Top healthcare technology trends in 2025,Neutral,0.585115909576416,"ai, medicare, health, medical, insurance, false, models, patients, data, even"
+"FTC Sues John Deere Over Its Repair Monopoly | Deere ""has illegally restricted the ability of farmers and independent technicians to repair Deere equipment, including tractors and combines.""",Negative,0.7882611155509949,Outlier / Uncategorized
+Mental health video game designed by Nunavut youth nearing completion,Neutral,0.7979292869567871,Outlier / Uncategorized
+"Turns out there's 'a big supercomputer at Nvidia… running 24/7, 365 days a year improving DLSS. And it's been doing that for six years'",Positive,0.7484450936317444,Outlier / Uncategorized
+Increased AI use linked to eroding critical thinking skills,Negative,0.5546245574951172,Outlier / Uncategorized
+Supreme Court Weighs Texas Age-Gating Law for Porn Sites,Neutral,0.7195303440093994,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+UnitedHealth hid its Change Healthcare data breach notice for months,Neutral,0.5062494874000549,"ai, medicare, health, medical, insurance, false, models, patients, data, even"
+"In final address, Biden warns of rise of tech industrial complex while outlining threats, challenges",Neutral,0.7264537811279297,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Chinese EV giant BYD sold 4.2 million vehicles in 2024, up 41.3% from 2023.",Neutral,0.6118742227554321,Outlier / Uncategorized
+President Joe Biden Warns of Big Tech and Social Media Manipulation in Final Address: ‘The Truth is Smothered by Lies Told For Power and For Profit’,Negative,0.5382954478263855,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Pixelfed Feels Like a Return to Instagram’s Glory Days,Positive,0.5697643160820007,Outlier / Uncategorized
+Researchers Hacked into Apple’s New USB-C Controller,Neutral,0.7221673130989075,Outlier / Uncategorized
+"Facebook, TikTok Named in Social Media Addiction Lawsuit Brought by Native American Tribe Over Harm to Youth",Negative,0.6144284605979919,Outlier / Uncategorized
+Police Use of Face Recognition Continues to Wrack Up Real-World Harms,Neutral,0.6483540534973145,Outlier / Uncategorized
+Graphic designer calls out trend after spotting jaw-dropping image on puzzle box: 'This makes me furious',Negative,0.7642143368721008,Outlier / Uncategorized
+Intel’s Tofino P4 Software is Now Open Source,Neutral,0.4985417425632477,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+"Intel and NVIDIA drivers holding back a public SteamOS release, Valve not trying to compete with Windows",Neutral,0.5978407859802246,Outlier / Uncategorized
+Biden administration launches cybersecurity executive order,Neutral,0.9178182482719421,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Gaming industry hits a wall, but PC gaming continues to thrive outpacing consoles | Thank advancements in portable PC gaming and the influence of platforms like Roblox",Positive,0.8431177735328674,Outlier / Uncategorized
+Progress or Planned Obsolescence? Microsoft to End Office Support on Win 10,Neutral,0.8091927766799927,"book, books, read, bookclub, sources, novel, wednesday, wicked, reading, authors"
+Nintendo Switch 2 Has been revealed,Neutral,0.794616162776947,Outlier / Uncategorized
+NY State Bill To Require Background Checks For 3d Printers.,Neutral,0.8949713110923767,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Colossal raises $200M to “de-extinct” the woolly mammoth, thylacine and dodo",Neutral,0.830131471157074,"hiphop, amb, edm, cabe, boyz, bout, dlow, bossman, savage, dnd"
+"ISRO successfully docks two satellites in space, India fourth country to achieve feat after US, Russia, China",Positive,0.7419976592063904,"moon, mars, launch, nasa, space, spacex, occultation, glenn, tonight, light"
+TikTok CEO Will Reportedly Attend Trump’s Inauguration As Ban Looms,Neutral,0.8428606986999512,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+"Report: 77% of devs expect games industry to grow in 2025 | 90% of studios plan to release at least one new game this year, according to game backend provider Metaplay",Positive,0.7731420397758484,Outlier / Uncategorized
+Poppy Playtime Sues Google for Failing to Remove Copyright Infringing 'Scam' Apps,Negative,0.8072367310523987,Outlier / Uncategorized
+Concern as Poland included on US list of countries with restricted AI chip exports,Neutral,0.5431898832321167,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+UK demands adult content sites introduce 'effective' age verification methods,Neutral,0.8001198172569275,Outlier / Uncategorized
+"FBI Confirms It Deleted Files From 4,258 U.S.-Based Computers",Neutral,0.7695988416671753,"trump, hegseth, house, says, pete, inauguration, trumps, biden, ban, revenue"
+Google won't add fact-checks despite new EU law,Negative,0.5077905654907227,Outlier / Uncategorized
+TikTok not wanting to disclose their algorithm should be worrying,Negative,0.7519879937171936,Outlier / Uncategorized
+Toyota's truck division Hino to pay $1.6 billion as part of emissions scandal,Negative,0.5268946290016174,Outlier / Uncategorized
+"Daily Simple Questions Thread - November 19, 2024",Neutral,0.932501494884491,"january, simple, questions, daily, thread, november, dry, calendar, healthier, really"
+"Daily Simple Questions Thread - November 20, 2024",Neutral,0.9313486814498901,"january, simple, questions, daily, thread, november, dry, calendar, healthier, really"
+Gym Story Saturday,Neutral,0.8773811459541321,"gym, saturday, phriday, physique, story, muscle, monthly, megathread, training, exercise"
+"Daily Simple Questions Thread - November 23, 2024",Neutral,0.9319371581077576,"january, simple, questions, daily, thread, november, dry, calendar, healthier, really"
+"Daily Simple Questions Thread - November 24, 2024",Neutral,0.9317070841789246,"january, simple, questions, daily, thread, november, dry, calendar, healthier, really"
+Moronic Monday - Your weekly stupid questions thread,Negative,0.9278553128242493,"sunday, stupid, moronic, victory, monday, rant, weekly, wednesday, thread, questions"
+"Daily Simple Questions Thread - November 26, 2024",Neutral,0.9317854046821594,"january, simple, questions, daily, thread, november, dry, calendar, healthier, really"
+Rant Wednesday,Neutral,0.8519823551177979,"sunday, stupid, moronic, victory, monday, rant, weekly, wednesday, thread, questions"
