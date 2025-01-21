@@ -14,7 +14,6 @@ This project demonstrates a real-time data streaming pipeline using Apache Kafka
 2. **Consumers**:
     - **Sentiment Analysis Consumer**:
         - Analyzes the sentiment of Reddit posts (positive, negative, or neutral).
-        - Writes analyzed data to a secondary Kafka topic or CSV.
     - **Topic Extraction Consumer**:
         - Performs topic modeling on post titles using BERTopic.
         - Categorizes posts and saves structured results to a CSV file.
@@ -74,23 +73,23 @@ This project demonstrates a real-time data streaming pipeline using Apache Kafka
 ### 3. Run the Producer
 1. Start the producer to stream posts:
    ```bash
-   python reddit_producer.py
+   python reddit_streamer.py
    ```
 
 ### 4. Run Consumers
 1. Start sentiment analysis consumers:
    ```bash
-   python sentiment_consumer.py
+   python reddit_sentiment_consumer.py
    ```
 2. Start topic extraction consumers:
    ```bash
-   python topic_consumer.py
+   python reddit_topic_consumer.py
    ```
 
 ### 5. Train BERTopic Model (Optional)
 To retrain the BERTopic model:
 ```bash
-python train_bertopic.py
+python training_bert.py
 ```
 
 ---
@@ -99,20 +98,18 @@ python train_bertopic.py
 
 ### Sentiment Analysis Consumer
 ```plaintext
-Post: ISRO successfully docks two satellites in space (Partition: 0)
+Post: ISRO successfully docks two satellites in space, India fourth country to achieve feat after US, Russia, China (Partition: 0)
 Sentiment: Positive (Confidence: 0.74)
 
-Post: Global markets tumble as inflation fears grow (Partition: 1)
+Post: Poppy Playtime Sues Google for Failing to Remove Copyright Infringing 'Scam' Apps (Partition: 0)
 Sentiment: Negative (Confidence: 0.81)
 ```
 
 ### Topic Extraction Consumer
 ```plaintext
-Post: New AI model significantly improves protein folding prediction (Partition: 1)
-Topic: Machine Learning, Artificial Intelligence, Research
+Are You Experienced by Jimi Hendrix, Neutral, 0.8792815208435059, "rock, actions, around, one, korn, sparks, woodstock, dokken, gilded"
 
-Post: NASA plans to establish a permanent lunar base by 2030 (Partition: 0)
-Topic: Space Exploration, Moon, NASA
+is there a missing godfather 2 love scene?, Neutral, 0.8356384038925171, "movie, movies, best, poster, films, starring, film, comedy, official, trailer"
 ```
 
 ### Word Cloud
