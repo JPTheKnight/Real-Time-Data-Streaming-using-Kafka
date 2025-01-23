@@ -55,7 +55,7 @@ This project demonstrates a real-time data streaming pipeline using Apache Kafka
 ## Setup
 
 ### 1. Configure Kafka
-1. Start Zookeeper and Kafka brokers.
+1. Start Zookeeper and Kafka brokers (yourself or you can try with run_kafka.bat if you're on windows).
 2. Create required topics:
    ```bash
    bin/kafka-topics.sh --create --topic reddit_stream --bootstrap-server localhost:9092 --partitions 2 --replication-factor 1
