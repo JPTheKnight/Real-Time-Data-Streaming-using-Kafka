@@ -26,9 +26,7 @@ except LookupError:
 topic_counter = Counter()
 
 def clean_and_tokenize(text):
-    text = re.sub(r'http\S+|www\.\S+', '', text)
     text = re.sub(r'[^A-Za-z\s]', '', text)
-    text = re.sub(r'\s+', ' ', text).strip()
     tokens = word_tokenize(text.lower())
     stop_words = set(stopwords.words('english'))
     return [word for word in tokens if word not in stop_words]
